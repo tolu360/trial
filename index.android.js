@@ -13,6 +13,8 @@ import {
   View
 } from 'react-native';
 
+import RNGooglePlaces from 'react-native-google-places';
+
 export default class trial extends Component {
 
   openSearchModal() {
